@@ -77,16 +77,16 @@ const Information = styled.div`
   }
 `;
 
-const Date = styled.div`
+/*const Date = styled.div`
   margin-top: 1rem;
   color: ${props => props.theme.colors.black.lighter};
-`;
+`;*/
 
 const Title = styled.h1`
   margin: 0;
 `;
 
-const BlogList = ({ path, cover, title, date, excerpt, tags }) => (
+const BlogList = ({ path, cover, title, tags }) => (
   <Container>
     <Wrapper>
       <Image>
@@ -95,12 +95,10 @@ const BlogList = ({ path, cover, title, date, excerpt, tags }) => (
         </Link>
       </Image>
       <Information>
-        <Date>{date}</Date>
         <Link to={path}>
           <Title>{title}</Title>
         </Link>
         <TagsBlock list={tags} />
-        {excerpt}
       </Information>
     </Wrapper>
   </Container>
@@ -111,8 +109,6 @@ export default BlogList;
 BlogList.propTypes = {
   cover: PropTypes.object.isRequired,
   path: PropTypes.string.isRequired,
-  excerpt: PropTypes.string,
-  date: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
   tags: PropTypes.array.isRequired,
 };

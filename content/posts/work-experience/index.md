@@ -1,8 +1,9 @@
 ---
 path: "/work-experience"
-cover: "./Penn5.jpg" #TODO -- ADD IMAGE HERE
+cover: "./Penn1.JPG" #TODO -- ADD IMAGE HERE
 date: "2018-10-15" # TODO -- CHANGE THE USE OF DATES
 title: "Work Experience"
+count: "3"
 published: true
 tags: ['website', 'react', 'other']
 #TODO -- ADD LINKS -- EDIT DESCRIPTIONS

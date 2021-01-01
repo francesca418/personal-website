@@ -1,17 +1,20 @@
 ---
 path: "/education"
-cover: "./Penn5.jpg" #TODO -- ADD IMAGE HERE
+cover: "./Bridge.JPG" #TODO -- ADD IMAGE HERE
 date: "2018-10-15" # TODO -- CHANGE THE USE OF DATES
 title: "Education"
+count: "2"
 published: true
 tags: ['website', 'react', 'other']
+#TODO -- FIGURE OUT FORMATTING
 ---
 # University of Pennsylvania
 <details>
   <summary><b>Candidate for M.S.E., Computer & Information Science, 2022</b></summary>
-  
-  **School of Engineering & Applied Science**
-  **GPA: 3.85 / 4.00**
+
+  #### School of Engineering & Applied Science
+  <br> 
+ <h6>GPA: 3.85 / 4.00</h6>
   <details>
     <summary><b>Coursework</b></summary>
 
@@ -25,10 +28,10 @@ tags: ['website', 'react', 'other']
 
 <details>
   <summary><b>Candidate for B.A., Cognitive Science & Computer Science, 2021</b></summary>
-  
-  **College of Arts & Sciences**
-  **Concentration: Computation & Cognition**
-  **Minors: Mathematics & Linguistics**
+
+   **College of Arts & Sciences**<br>
+  **Concentration: Computation & Cognition**<br>
+  **Minors: Mathematics & Linguistics**<br>
   **GPA: 3.93 / 4.00**
   <details>
     <summary><b>Awards & Honors</b></summary>

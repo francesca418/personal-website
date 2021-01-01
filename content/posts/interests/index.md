@@ -1,8 +1,9 @@
 ---
 path: "/interests"
-cover: "./Penn5.jpg"
+cover: "./NSB.jpg"
 date: "2018-10-15"
 title: "Interests"
+count: "6"
 published: true
 tags: ['website', 'react', 'other']
 ---

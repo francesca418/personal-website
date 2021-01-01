@@ -3,6 +3,7 @@ path: "/about"
 cover: "./Penn5.jpg"
 date: "2018-10-15"
 title: "About"
+count: "1"
 published: true
 tags: ['website', 'react', 'other']
 ---

@@ -28,16 +28,15 @@ const Index = ({ data }) => {
       <Header title="Home Page">Gatsby Tutorial Starter</Header>
       <PostWrapper>
         {edges.map(({ node }) => {
-          const { id, excerpt, frontmatter } = node;
-          const { cover, path, title, date } = frontmatter;
+          const { id, frontmatter } = node;
+          const { cover, path, title, count } = frontmatter;
           return (
             <PostList
               key={id}
               cover={cover.childImageSharp.fluid}
               path={path}
               title={title}
-              date={date}
-              excerpt={excerpt}
+              count={count}
             />
           );
         })}
@@ -59,7 +58,7 @@ Index.propTypes = {
               cover: PropTypes.object.isRequired,
               path: PropTypes.string.isRequired,
               title: PropTypes.string.isRequired,
-              date: PropTypes.string.isRequired,
+              count: PropTypes.string.isRequired,
               tags: PropTypes.array,
             }),
           }),
@@ -73,7 +72,7 @@ export const query = graphql`
   query {
     allMarkdownRemark(
       limit: 6
-      sort: { order: DESC, fields: [frontmatter___date] }
+      sort: { order: ASC, fields: [frontmatter___count] }
     ) {
       edges {
         node {
@@ -83,7 +82,6 @@ export const query = graphql`
             title
             path
             tags
-            date(formatString: "MM.DD.YYYY")
             cover {
               childImageSharp {
                 fluid(
