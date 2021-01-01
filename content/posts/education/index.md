@@ -5,7 +5,6 @@ date: "2018-10-15" # TODO -- CHANGE THE USE OF DATES
 title: "Education"
 count: "2"
 published: true
-tags: ['website', 'react', 'other']
 #TODO -- FIGURE OUT FORMATTING
 ---
 # University of Pennsylvania

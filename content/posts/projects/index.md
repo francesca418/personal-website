@@ -5,7 +5,6 @@ date: "2018-10-15" # TODO -- CHANGE THE USE OF DATES
 title: "Papers & Projects"
 count: "4"
 published: true
-tags: ['website', 'react', 'other']
 #TODO -- ADD LINKS -- ADD DESCRIPTIONS? 
 ---
 # Papers & Publications

@@ -58,8 +58,7 @@ Index.propTypes = {
               cover: PropTypes.object.isRequired,
               path: PropTypes.string.isRequired,
               title: PropTypes.string.isRequired,
-              count: PropTypes.string.isRequired,
-              tags: PropTypes.array,
+              count: PropTypes.string.isRequired
             }),
           }),
         }).isRequired
@@ -81,7 +80,6 @@ export const query = graphql`
           frontmatter {
             title
             path
-            tags
             cover {
               childImageSharp {
                 fluid(

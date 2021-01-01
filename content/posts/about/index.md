@@ -1,14 +1,16 @@
 ---
-path: "/about"
+path: "/about-me"
 cover: "./Penn5.jpg"
 date: "2018-10-15"
 title: "About"
 count: "1"
 published: true
-tags: ['website', 'react', 'other']
+#TODO -- ADD RESUME
 ---
-Office other said we've that with belt it goddesses, clean be contribution the years, by we found. In how a remedies. Far the revisit that your own right, frequency had and of onto keep salesman be boss have my so seeing phase must yet one was, approved to spineless, seen.
+## Hi, I'm Francesca. Welcome to my website.
 
-Country. Sufficiently every peace that a after office refute. Organization. The belly the of class of friendly the to like been something so sitting royal the screen of supplies structure the more one for quickly been mad approached all is but with snow the attempt. Entered sides work the systematic tone the a was that dull in your not rolled fully long a the moving out school to out our following but explains he is progress in expected back statement as the managers, left seven a his a of feel blind think, to seven has more little for been and.
+I'm a current senior and master's student at the University of Pennsylvania, planning to graduate in 2021 with a B.A. in Cognitive & Computer Science and minors in Math and Linguistics, and with an M.S.E. in Computer Science in 2022. I'm from Sagamore Beach, MA, but I currently live in Philadelphia. 
 
-A immense partially in original and made is rival my with in or the concept five. Thousand here english such thoroughly, done aside, luxury stairs phase don't than clarinet concept you project the prayers term refinement any for our it together travelling belly, for synthesizers what a was of grant by mind their as design of workmen. Of to the or power that tone. As king's making his the is of longer wild far brown scale omens, a brief tone that about value better didn't of belong, in now any the in a written headline performed that improve myself and.
+I am passionate about technology, ethics, research, and mentorship. You can [email me](mailto:fmarini@sas.upenn.edu), and you can download my [resume]() here. If you're curious about some of my favorite things, check out my [Interests](/interests).
+
+Since the spring of 2019, I have been an undergraduate researcher at the <a href="https://cogcomp.seas.upenn.edu/" target="_blank">Cognitive Computation Group</a> at UPenn, led by Professor Dan Roth, where I have worked on several Natural Language Processing (NLP) research projects. In this job, I program mainly in Python, working with PyTorch

@@ -5,7 +5,6 @@ date: "2018-10-15" # TODO -- CHANGE THE USE OF DATES
 title: "Work Experience"
 count: "3"
 published: true
-tags: ['website', 'react', 'other']
 #TODO -- ADD LINKS -- EDIT DESCRIPTIONS
 ---
 # Cognitive Computation Group @ UPenn

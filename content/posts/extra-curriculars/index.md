@@ -5,7 +5,6 @@ date: "2018-10-15" # TODO -- CHANGE THE USE OF DATES
 title: "Clubs & Activities"
 count: "5"
 published: true
-tags: ['website', 'react', 'other']
 #TODO -- ADD LINKS -- EDIT DESCRIPTIONS?
 ---
 # Clubs & Leadership
