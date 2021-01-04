@@ -45,7 +45,7 @@ const headroom = css`
         color: ${theme.colors.black.base};
         &:hover {
           border-color: ${theme.colors.black.base};
-          color: ${theme.colors.black.base};
+          color: #0EB9CB;
         }
         &:focus {
           color: ${theme.colors.black.base};

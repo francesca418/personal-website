@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 import 'typeface-open-sans';
 import 'typeface-candal';
 import { SEO } from 'components';
-import { NavBar, Footer } from 'layouts';
+import { Footer } from 'layouts';
 import theme from '../../config/theme';
 import headroom from '../styles/headroom';
 
@@ -42,13 +42,13 @@ const Layout = ({ children }) => (
             min-height: 100vh;
           }
           a {
-            color: ${theme.colors.link};
+            color: #440B11; 
             transition: color 0.5s;
             text-decoration: none;
           }
           a:hover {
             text-decoration: none;
-            color: ${theme.colors.linkHover};
+            color: #027381;
           }
           h1 {
             font-family: ${theme.fontFamily.heading};
@@ -58,7 +58,7 @@ const Layout = ({ children }) => (
         `}
       />
       <SEO />
-      <NavBar />
+      
       {children}
       <Footer />
     </Fragment>

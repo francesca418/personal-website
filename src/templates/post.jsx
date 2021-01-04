@@ -2,7 +2,7 @@ import React from 'react';
 import { graphql, Link } from 'gatsby';
 import styled from '@emotion/styled';
 import PropTypes from 'prop-types';
-import { Layout, Container, Content } from 'layouts';
+import { Layout, Container, Content, NavBar } from 'layouts';
 import { Header, SEO } from 'components';
 import '../styles/prism';
 
@@ -56,6 +56,7 @@ const Post = ({ data, pageContext }) => {
           )}
         </PostSuggestion>
       </SuggestionBar>
+      <NavBar/>
     </Layout>
   );
 };
@@ -82,7 +83,7 @@ export const query = graphql`
             fluid(
               maxWidth: 1920
               quality: 90
-              duotone: { highlight: "#386eee", shadow: "#2323be", opacity: 60 }
+              duotone: { highlight: "#0EB9CB", shadow: "#027381", opacity: 60 }
             ) {
               ...GatsbyImageSharpFluid_withWebp
             }
