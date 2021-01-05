@@ -2,15 +2,15 @@
   <a href="https://github.com/francesca418/personal-website">
     <img
       src="/static/logo/banner.png"
-      width="100"
-      height="100"
+      width="150"
+      height="150"
       alt="Francesca Marini"
       title="Francesca Marini Personal Website"
     />
   </a>
 </p>
 
-Based on the Gatsby Starter at <a href="https://gatsby-tutorial-starter.netlify.app">.
+Based on the Gatsby Starter [here](https://gatsby-tutorial-starter.netlify.app).
 
 ## Features
 
