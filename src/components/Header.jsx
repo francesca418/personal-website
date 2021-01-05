@@ -39,6 +39,7 @@ const Text = styled.div`
   align-items: center;
 `;
 
+
 const Subtitle = styled.p`
   max-width: 650px;
   color: ${props => props.theme.colors.white.light};
@@ -46,10 +47,13 @@ const Subtitle = styled.p`
 
 const Header = ({ children, title, cover }) => (
   <Wrapper>
-    <Img fluid={cover || {} || [] || ''} />
+    <Img fluid={cover || {} || [] || ''}/>
     <Text>
+    <h1/>
+    <h1/>
+    <h1/>
+    <h6/>
       <h1>{title}</h1>
-
       {children && <Subtitle>{children}</Subtitle>}
     </Text>
   </Wrapper>

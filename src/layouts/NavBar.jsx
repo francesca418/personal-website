@@ -30,7 +30,7 @@ const Nav = styled.nav`
 const NavBar = () => (
   <Headroom calcHeightOnResize disableInlineStyles>
     <StyledLink to="/">
-      <img src={logo} alt="Gatsby Logo" />
+      <img src={logo} alt="Minimalist Portrait" width="100" height="100"/>
     </StyledLink>
     <Nav>
       <Link to="/">Home</Link>
@@ -41,6 +41,7 @@ const NavBar = () => (
       <Link to="/extra-curriculars">Activities</Link>
       <Link to="/interests">Interests</Link>
     </Nav>
+    
   </Headroom>
 );
 

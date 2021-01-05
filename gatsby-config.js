@@ -23,8 +23,9 @@ module.exports = {
             resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 750,
-              quality: 90,
+              quality: 100,
               linkImagesToOriginal: true,
+              //srcSetBreakpoints: [200, 340, 520, 890]
             },
           },
           'gatsby-remark-prismjs',

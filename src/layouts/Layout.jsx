@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 import 'typeface-open-sans';
 import 'typeface-candal';
 import { SEO } from 'components';
-import { Footer } from 'layouts';
+import { Footer, NavBar } from 'layouts';
 import theme from '../../config/theme';
 import headroom from '../styles/headroom';
 
@@ -58,7 +58,7 @@ const Layout = ({ children }) => (
         `}
       />
       <SEO />
-      
+      <NavBar/>
       {children}
       <Footer />
     </Fragment>
