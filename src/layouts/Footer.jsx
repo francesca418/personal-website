@@ -1,5 +1,12 @@
 import React from 'react';
+import { Link } from 'gatsby';
 import styled from '@emotion/styled';
+
+const StyledLink = styled(Link)`
+  display: flex;
+  font-weight: 700;
+  align-items: center;
+`;
 
 const Wrapper = styled.footer`
   position: relative;
@@ -22,13 +29,15 @@ const Text = styled.div`
 `;
 
 const Footer = () => (
+  
   <Wrapper>
     <Text>
       <span>
-        ADD LINKS TO SOCIALS -{' '}
-        Made with <a href="https://www.gatsbyjs.com/">Gatsby</a>
+       Find me on <a href="https://www.facebook.com/profile.php?id=100006076810158">Facebook</a> | <a href="https://www.linkedin.com/in/francescammarini">LinkedIn</a> | <a href="https://github.com/francesca418">Github</a>
+      <p>Made with <a href="https://www.gatsbyjs.com/">Gatsby</a></p>
       </span>
     </Text>
+   
   </Wrapper>
 );
 export default Footer;

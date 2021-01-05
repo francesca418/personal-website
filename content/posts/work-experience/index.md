@@ -7,11 +7,14 @@ count: "3"
 published: true
 #TODO -- ADD LINKS -- EDIT DESCRIPTIONS
 ---
+
+<img src="Fall.JPG" alt="Fall" width="90%" height="90%">
+
 # Cognitive Computation Group @ UPenn
 <details>
   <summary><b>Researcher</b></summary>
 
-*February 2019 - Present*
+*February 2019 - Present*<br>
 The Cognitive Computation Group (CogComp) is one of the foremost research groups in the field of Natural Language Processing (NLP) run by Professor Dan Roth.
 
 NLP is a branch of machine learning that combines linguistics with computer science to teach machines how to do tasks such as machine translation, information extraction, document summarization, and question answering (think Google search, chatbots, and recommendation systems).
@@ -21,19 +24,19 @@ I have been working as a researcher in this lab for nearly two years, both as a 
 </details>
 
 # Computer Science Dept. @ UPenn
-**Teaching Assistant**
-<details>
-  <summary><b>CIS 262: Automata, Computability, & Complexity</b></summary>
 
-*August 2020 - December 2020*
+<details>
+  <summary><b>Teaching Assistant - CIS 262: Automata, Computability, & Complexity</b></summary>
+
+*August 2020 - December 2020*<br>
 CIS 262 is an intermediate-level, proof-based computing theory course, which focuses on computation theory. It is the most abstract core requirement for CS students. As a TA, I hold weekly office hours, grade assignments, and answer questions on Piazza, an online class message board.
   
 </details>
 
 <details>
-  <summary><b>CIS 120: Programming Languages & Techniques</b></summary>
+  <summary><b>Teaching Assistant - CIS 120: Programming Languages & Techniques</b></summary>
 
-*August 2019 - December 2019*
+*August 2019 - December 2019*<br>
 CIS 120 is an introductory programming techniques course that is required for all CS majors at Penn. It teaches programming in Java and OCaml.
 
 I taught a weekly, hour-long recitation class, and I held two hours of office hours per week to provide help with homework and general computer science concepts.
@@ -43,9 +46,9 @@ I graded assignments, performed code reviews where I met individually with stude
 </details>
 
 <details>
-  <summary><b>MCIT 592: Discrete Math</b></summary>
+  <summary><b>Teaching Assistant - MCIT 592: Discrete Math</b></summary>
 
-*August 2019 - December 2019*
+*August 2019 - December 2019*<br>
 MCIT 592 is an online, proof-based discrete math course designed for computer science Master's students who did not major in CS as undergraduates. I served as a grader for this course and as a resource to CS students, and was offered a head TA position.
   
 </details>
@@ -55,7 +58,7 @@ MCIT 592 is an online, proof-based discrete math course designed for computer sc
 <details>
   <summary><b>Research Assistant</b></summary>
 
-*August 2018 - December 2018*
+*August 2018 - December 2018*<br>
 I assisted the database programmer with improving the database interface for the research lab.
   
 </details>
@@ -65,7 +68,7 @@ I assisted the database programmer with improving the database interface for the
 <details>
   <summary><b>Research Assistant</b></summary>
 
-*May 2018 - August 2018*
+*May 2018 - August 2018*<br>
 I helped construct a reliable fossil fish database to be used for future research analysis in the field of paleobiology.
   
 </details>
@@ -74,7 +77,7 @@ I helped construct a reliable fossil fish database to be used for future researc
 <details>
   <summary><b>Sales Associate</b></summary>
 
-*September 2016 - August 2017*
+*September 2016 - August 2017*<br>
 I worked the register and the sales floor, stocked merchandise, and provided customer service.
   
 </details>

@@ -7,7 +7,7 @@ count: "1"
 published: true
 #TODO -- ADD RESUME
 ---
-## Hi, I'm Francesca. Welcome to my website.
+# Hi, I'm Francesca. Welcome to my website.
 
 <img src="Portrait.jpg" alt="Portrait" width="90%" height="90%">
 

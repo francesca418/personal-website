@@ -6,6 +6,11 @@ title: "Interests"
 count: "6"
 published: true
 ---
+
+<img src="Beach.JPG" alt="Beach" width="90%" height="90%">
+
+# Some Stuff I Like
+
 My family is very close and important to me. We are Italian, and I love to learn how to cook traditional meals from my relatives.
 
 In my free time, I love to get together with friends for movie & game nights, concerts & performances, family dinners, & late night conversations.
