@@ -1,9 +1,11 @@
+# Personal Website
+
 <p align="center">
   <a href="https://github.com/francesca418/personal-website">
     <img
       src="/static/logo/banner.png"
-      width="150"
-      height="150"
+      width="300"
+      height="300"
       alt="Francesca Marini"
       title="Francesca Marini Personal Website"
     />
