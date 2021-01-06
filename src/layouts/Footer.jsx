@@ -33,8 +33,8 @@ const Footer = () => (
   <Wrapper>
     <Text>
       <span>
-       Find me on <a href="https://www.facebook.com/profile.php?id=100006076810158">Facebook</a> | <a href="https://www.linkedin.com/in/francescammarini">LinkedIn</a> | <a href="https://github.com/francesca418">Github</a>
-      <p>Made with <a href="https://www.gatsbyjs.com/">Gatsby</a></p>
+       Find me on <a href="https://www.facebook.com/profile.php?id=100006076810158" target="_blank">Facebook</a> | <a href="https://www.linkedin.com/in/francescammarini" target="_blank">LinkedIn</a> | <a href="https://github.com/francesca418" target="_blank">Github</a>
+      <p>Made with <a href="https://www.gatsbyjs.com/" target="_blank">Gatsby</a></p>
       </span>
     </Text>
    

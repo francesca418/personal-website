@@ -19,5 +19,3 @@ I am passionate about technology, ethics, research, and mentorship. You can [ema
 
 Since the spring of 2019, I have been an undergraduate researcher at the <a href="https://cogcomp.seas.upenn.edu/" target="_blank">Cognitive Computation Group</a> at UPenn, led by Professor Dan Roth, where I have worked on several Natural Language Processing (NLP) research projects. In this job, I program mainly in Python, working with PyTorch
 
-
-ADD MORE CONTENT HERE!!!!

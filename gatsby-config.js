@@ -23,9 +23,8 @@ module.exports = {
             resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 750,
-              quality: 100,
+              quality: 90,
               linkImagesToOriginal: true,
-              //srcSetBreakpoints: [200, 340, 520, 890]
             },
           },
           'gatsby-remark-prismjs',
@@ -58,7 +57,7 @@ module.exports = {
         background_color: config.backgroundColor,
         theme_color: config.themeColor,
         display: 'standalone',
-        icon: 'static/logo/favicon.ico',
+        icon: 'static/logo/favicon.png',
       },
     },
     'gatsby-plugin-offline',
