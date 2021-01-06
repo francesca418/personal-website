@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-<a href="https://circleci.com/gh/circleci/circleci-docs">
+<a href="https://circleci.com/gh/francesca418/personal-website">
     <img
-      src="https://circleci.com/gh/circleci/circleci-docs.svg?style=shield"
+      src="https://circleci.com/gh/francesca418/personal-website.svg?style=shield"
       alt="circleci passing"
     />
   </a>
@@ -23,6 +23,12 @@
     <img
       src="https://img.shields.io/badge/deploys%20by-netlify-00c7b7.svg"
       alt="deploys by netlify"
+    />
+  </a>
+  <a href="https://app.netlify.com/sites/awesome-sammet-06adeb/deploys">
+    <img
+      src="https://api.netlify.com/api/v1/badges/cce2a53f-bd76-4160-a0a3-b59d56ed14d9/deploy-status"
+      alt="netlify status"
     />
   </a>
 </p>
