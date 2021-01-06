@@ -34,7 +34,7 @@
   </a>
 </p>
 
-<p>
+<p align="center">
 <a href="http://francesca-marini.info" target="_blank">
     <img
       src="test_results/lighthouse_accessibility.svg"
