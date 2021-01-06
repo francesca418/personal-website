@@ -13,6 +13,12 @@
 </p>
 
 <p align="center">
+<a href="https://circleci.com/gh/circleci/circleci-docs">
+    <img
+      src="https://circleci.com/gh/circleci/circleci-docs.svg?style=shield"
+      alt="circleci passing"
+    />
+  </a>
 <a href="https://www.netlify.com">
     <img
       src="https://img.shields.io/badge/deploys%20by-netlify-00c7b7.svg"
