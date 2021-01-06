@@ -11,6 +11,7 @@ published: true
 
 <img src="Beach.JPG" alt="Beach" width="90%" height="90%">
 <br>
+
 My family is very close and important to me. We are **Italian** 🇮🇹, and I love to learn how to cook traditional meals from my relatives. Also, wine is a fun time.
 
 In my free time, I love to get together with friends for movie & game nights, concerts & performances, family dinners, & late night conversations.
