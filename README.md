@@ -12,6 +12,15 @@
   </a>
 </p>
 
+<p align="center">
+<a href="https://www.netlify.com">
+    <img
+      src="https://img.shields.io/badge/deploys%20by-netlify-00c7b7.svg"
+      alt="deploys by netlify"
+    />
+  </a>
+</p>
+
 Based on the Gatsby Starter [here](https://gatsby-tutorial-starter.netlify.app).
 
 ## Features

@@ -10,7 +10,10 @@ const About = center => (
     <Header title="Leftover About Page">Leftover About Page</Header>
     <Container center={center}>
       <h3>
-        This is a leftover About Page that I didn't feel like deleting.
+        This is a leftover About Page that I didn't feel like deleting. 🦥
+      </h3>
+      <h3>
+        You can return to the <Link to="/">Homepage</Link>.
       </h3>
     </Container>
   </Layout>
