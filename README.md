@@ -1,7 +1,7 @@
 # Personal Website
 
 <p align="center">
-  <a href="https://github.com/francesca418/personal-website">
+  <a href="https://github.com/francesca418/personal-website" target="_blank">
     <img
       src="/static/logo/banner.png"
       width="300"
@@ -13,20 +13,20 @@
 </p>
 
 <p align="center">
-<a href="https://circleci.com/gh/francesca418/personal-website">
+<a href="https://circleci.com/gh/francesca418/personal-website" target="_blank">
     <img
       src="https://circleci.com/gh/francesca418/personal-website.svg?style=shield"
       alt="circleci passing"
     />
   </a>
-  <a href="https://app.netlify.com/sites/awesome-sammet-06adeb/deploys">
+  <a href="https://app.netlify.com/sites/awesome-sammet-06adeb/deploys" target="_blank">
     <img
       src="https://api.netlify.com/api/v1/badges/cce2a53f-bd76-4160-a0a3-b59d56ed14d9/deploy-status"
       alt="netlify status"
     />
   </a>
 </a>
-  <a href="https://opensource.org/licenses/MIT">
+  <a href="https://opensource.org/licenses/MIT" target="_blank">
     <img
       src="https://img.shields.io/badge/License-MIT-yellow.svg"
       alt="mit license"
@@ -34,7 +34,16 @@
   </a>
 </p>
 
-Based on the Gatsby Starter <a href="https://github.com/justinformentin/gatsby-v2-tutorial-starter">here</a>.
+<p>
+<a href="http://francesca-marini.info" target="_blank">
+    <img
+      src="https://rawgit.com/emazzotta/lighthouse-badges/master/assets/img/scores/lighthouse_accessibility.svg"
+      alt="lighthouse accessibility"
+    />
+  </a>
+</p>
+
+Based on the Gatsby Starter <a href="https://github.com/justinformentin/gatsby-v2-tutorial-starter" target="_blank">here</a>.
 
 ## Features
 
