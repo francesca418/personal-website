@@ -37,8 +37,32 @@
 <p>
 <a href="http://francesca-marini.info" target="_blank">
     <img
-      src="https://rawgit.com/emazzotta/lighthouse-badges/master/assets/img/scores/lighthouse_accessibility.svg"
+      src="test_results/lighthouse_accessibility.svg"
       alt="lighthouse accessibility"
+    />
+  </a>
+  <a href="http://francesca-marini.info" target="_blank">
+    <img
+      src="test_results/lighthouse_best-practices.svg"
+      alt="lighthouse best practices"
+    />
+  </a>
+  <a href="http://francesca-marini.info" target="_blank">
+    <img
+      src="test_results/lighthouse_performance.svg"
+      alt="lighthouse performance"
+    />
+  </a>
+  <a href="http://francesca-marini.info" target="_blank">
+    <img
+      src="test_results/lighthouse_pwa.svg"
+      alt="lighthouse pwa"
+    />
+  </a>
+  <a href="http://francesca-marini.info" target="_blank">
+    <img
+      src="test_results/lighthouse_seo.svg"
+      alt="lighthouse seo"
     />
   </a>
 </p>
