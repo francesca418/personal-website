@@ -17,6 +17,7 @@ published: true
   <br>
  <h3>GPA: 3.85 / 4.00</h3>
 <br>
+<br>
   <h4>Coursework:</h4>
   <ul style="list-style-type:none;">
     <li>CIS 519: Applied Machine Learning</li>
@@ -33,6 +34,7 @@ published: true
   <h3>Concentration: Computation & Cognition</h3><br>
   <h3>Minors: Mathematics & Linguistics</h3><br>
   <h3>GPA: 3.94 / 4.00</h3><br>
+  <br>
   <h4>Awards & Honors:</h4><br>
   <ul style="list-style-type:none;">
     <li>Dean's List, 2017 - Present</li>
@@ -99,6 +101,7 @@ published: true
 
   <h3>Weighted GPA: 4.25 / 4.00</h3><br>
   <h3>ACT: 35 / 36</h3><br>
+  <br>
 <h4>Awards & Honors:</h4><br>
 <ul style="list-style-type:none;">
     <li>Valedictorian, 2017</li>

@@ -52,7 +52,8 @@ const Wrapper = styled.div`
     font-family: ${props => props.theme.fontFamily.heading};
     font-size: 1.4rem;
     color: #F33829;
-    line-height: 1.5;
+    line-height: 1.55;
+    padding: 0px 0px 0.5rem 0rem; 
     &:hover{
       color: #440B11;
     }
