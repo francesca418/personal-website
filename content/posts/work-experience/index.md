@@ -26,7 +26,7 @@ I have been working as a researcher in this lab for nearly two years, both as a 
 # Computer Science Dept. @ UPenn
 
 <details>
-  <summary><b>Teaching Assistant - CIS 262: Automata, Computability, & Complexity</b></summary>
+  <summary><b>TA - CIS 262: Automata, Computability, & Complexity</b></summary>
 
 *August 2020 - December 2020*<br>
 CIS 262 is an intermediate-level, proof-based computing theory course, which focuses on computation theory. It is the most abstract core requirement for CS students. As a TA, I hold weekly office hours, grade assignments, and answer questions on Piazza, an online class message board.
@@ -34,7 +34,7 @@ CIS 262 is an intermediate-level, proof-based computing theory course, which foc
 </details>
 
 <details>
-  <summary><b>Teaching Assistant - CIS 120: Programming Languages & Techniques</b></summary>
+  <summary><b>TA - CIS 120: Programming Languages & Techniques</b></summary>
 
 *August 2019 - December 2019*<br>
 CIS 120 is an introductory programming techniques course that is required for all CS majors at Penn. It teaches programming in Java and OCaml.
@@ -46,7 +46,7 @@ I graded assignments, performed code reviews where I met individually with stude
 </details>
 
 <details>
-  <summary><b>Teaching Assistant - MCIT 592: Discrete Math</b></summary>
+  <summary><b>TA - MCIT 592: Discrete Math</b></summary>
 
 *August 2019 - December 2019*<br>
 MCIT 592 is an online, proof-based discrete math course designed for computer science Master's students who did not major in CS as undergraduates. I served as a grader for this course and as a resource to CS students, and was offered a head TA position.

@@ -9,7 +9,9 @@ published: true
 ---
 # Hi, I'm Francesca. Welcome to my website.
 
-<img src="Portrait.jpg" alt="Portrait" width="90%" height="90%">
+<img src="Portrait.jpg" alt="Portrait" width="90%" height="90%" class="center">
+
+<br>
 
 I'm a current senior and master's student at the University of Pennsylvania, planning to graduate in 2021 with a B.A. in Cognitive & Computer Science and minors in Math and Linguistics, and with an M.S.E. in Computer Science in 2022. I'm from Sagamore Beach, MA, but I currently live in Philadelphia. 
 

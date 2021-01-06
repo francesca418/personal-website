@@ -53,8 +53,7 @@ const Wrapper = styled.div`
     font-size: 1.4rem;
     color: #F33829;
     line-height: 1.5;
-    &:hover,
-    &:focus {
+    &:hover{
       color: #440B11;
     }
   }
@@ -71,6 +70,11 @@ const Wrapper = styled.div`
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 1.5rem; 
     line-height: 1.3; 
+  }
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
   h1,
   h2,

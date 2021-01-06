@@ -76,7 +76,6 @@ export const query = graphql`
     markdownRemark(frontmatter: { path: { eq: $pathSlug } }) {
       html
       frontmatter {
-        date
         title
         cover {
           childImageSharp {
