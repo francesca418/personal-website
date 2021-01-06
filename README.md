@@ -31,9 +31,16 @@
       alt="netlify status"
     />
   </a>
+</a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img
+      src="https://img.shields.io/badge/License-MIT-yellow.svg"
+      alt="mit license"
+    />
+  </a>
 </p>
 
-Based on the Gatsby Starter [here](https://gatsby-tutorial-starter.netlify.app).
+Based on the Gatsby Starter <a href="https://github.com/justinformentin/gatsby-v2-tutorial-starter">here</a>.
 
 ## Features
 
