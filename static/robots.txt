@@ -2,4 +2,4 @@ User-agent: *
 Disallow: */tags/
 Disallow: */community/
 
-Sitemap: https://wwww.francesca-marini.info/
+Sitemap: https://wwww.francesca-marini.info/sitemap.xml
