@@ -12,7 +12,7 @@ published: true
 
 # Clubs & Leadership
 <details>
-  <summary><b>UPenn Figure Skating Club</b></summary>
+  <summary><b>Univ. of Penn. Figure Skating Club</b></summary>
 
   <h3>Founding Executive Board Member</h3>
 <br>
