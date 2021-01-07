@@ -67,6 +67,8 @@
   </a>
 </p>
 
+Visit my site at https://www.francesca-marini.info 
+
 Based on the Gatsby Starter <a href="https://github.com/justinformentin/gatsby-v2-tutorial-starter" target="_blank">here</a>.
 
 ## Features
