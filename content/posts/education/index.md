@@ -48,7 +48,7 @@ published: true
     <li>CIS 120: Computer Programming Techniques</li>
     <li>CIS 160: Discrete Mathematics</li>
     <li>CIS 121: Datastructures & Algorithms</li>
-    <li>CIS 240: Computer Systems & Architecture</li>
+    <li>CIS 240: Introduction to Computer Systems</li>
     <li>CIS 262: Automata, Computability, & Complexity</li>
     <li>CIS 320: Algorithms</li>
     <li>CIS 519: Applied Machine Learning</li>
@@ -79,7 +79,7 @@ published: true
     <li>MATH 116: Honors Calculus</li>
     <li>MATH 240: Linear Algebra & Differential Equations (Placement Test Credit)</li>
     <li>MATH 313: Computational Linear Algebra</li>
-    <li>HYS 101: General Physics with Lab (AP Credit)</li>
+    <li>PHYS 101: General Physics with Lab (AP Credit)</li>
 </ul>
 <h4>Humanities & Social Science Coursework:</h4><br>
 <ul style="list-style-type:none;">
