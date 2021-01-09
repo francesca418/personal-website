@@ -10,6 +10,7 @@ published: true
 <img src="Penn2.JPG" alt="Philly" width="90%" height="90%">
 
 # University of Pennsylvania
+Expand dropdowns below ↓
 <details>
   <summary><b>Candidate for M.S.E., Computer & Information Science, 2022</b></summary>
 
