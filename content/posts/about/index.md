@@ -23,9 +23,9 @@ I have completed coursework in Database Mangagement Systems (DBMS), which involv
 
 I love **LaTeX** and use it whenever I can (with <a href="https://www.overleaf.com" target="_blank">Overleaf</a>). I do much of my work in the **Unix / Linux** shell. (I use <a href="https://en.wikipedia.org/wiki/Tmux" target="_blank">tmux</a> for a terminal multiplexer, and if you're curious about where I stand in the text <a href="https://en.wikipedia.org/wiki/Editor_war" target="_blank">editor war</a> — I use emacs.)
 
-This website was built using <a href="https://www.gatsbyjs.com/" target="_blank">**Gatsby**</a> and **React** for frontend. It is hosted using <a href="http://netlify.com/" target="_blank">**Netlify**</a>. The code is available on my <a href="https://github.com/francesca418/personal-website" target="_blank">Github</a>.
+This website was built using <a href="https://www.gatsbyjs.com/" target="_blank">**Gatsby**</a> and **React**. It is hosted using <a href="http://netlify.com/" target="_blank">**Netlify**</a>. The code is available on my <a href="https://github.com/francesca418/personal-website" target="_blank">Github</a>.
 
-My introductory CS classes, up through Data Structures & Algorithms, were all taught in **Java**, and a portion of the Programming Languages & Techniques course (for which I later served as a TA) was also in **OCaml**. In an Intro Computer Systems course, I also wrote basic programs in **Assembly** language and a compiler for the J language in **C**. I have worked with **HTML**, **CSS**, & **JavaScript** to make websites and **Google Cloud** for hosting in the past.
+My introductory CS classes, up through Data Structures & Algorithms, were all taught in **Java**, and a portion of the Programming Languages & Techniques course (for which I later served as a TA) was also in **OCaml**. In an Intro Computer Systems course, I also wrote some small programs in **Assembly** language and a compiler for the J language in **C**. I have worked with **HTML**, **CSS**, & **JavaScript** to make websites and **Google Cloud** for hosting in the past.
 
 
 
