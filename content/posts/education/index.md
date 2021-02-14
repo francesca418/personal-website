@@ -24,6 +24,7 @@ Expand dropdowns below ↓
     <li>CIS 519: Applied Machine Learning</li>
     <li>CIS 530: Computational Linguistics</li>
     <li>CIS 550: Database & Information Systems</li>
+    <li>CIS 571: Computer Organization & Design</li>
 </ul>
 </details>
 

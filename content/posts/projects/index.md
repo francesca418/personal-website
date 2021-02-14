@@ -11,11 +11,11 @@ published: true
 <img src="Snowy.jpg" alt="Snow" width="90%" height="90%">
 
 # Papers & Publications
-<p><b>Building Low-Resource NER Models Using Non-Speaker Annotations</b>, 2020 | <a href="https://arxiv.org/pdf/2006.09627.pdf" target="_blank">Paper</a><br>
-Authors: Tatiana Tsygankova, Francesca Marini, Stephen Mayhew, Dan Roth</p>
+<p><b>Building Low-Resource NER Models Using Non-Speaker Annotations</b>, 2020 | <a href="https://arxiv.org/pdf/2006.09627.pdf" target="_blank">arXiv</a> | <a href="https://github.com/CogComp/ns-annotation" target="_blank">Github</a><br>
+Authors: Tatiana Tsygankova, <b>Francesca Marini</b>, Stephen Mayhew, Dan Roth</p>
 
 <p><b>University of Pennsylvania 2019 LoReHLT Submission</b>, 2019 | <a href="https://cogcomp.seas.upenn.edu/papers/MTMWLYFSZYKHSSR19.pdf" target="_blank">Paper</a><br>
-Authors: Stephen Mayhew, Tatiana Tsygankova, Francesca Marini, Zihan Wang, Jane Lee, Xiaodong Yu, Xingyu Fu, Weijia Shi, Zian Zhao, Wenpeng Yin, Karthikeyan K, Jamaal Hay, Michael Shur, Jennifer Sheffield, Dan Roth
+Authors: Stephen Mayhew, Tatiana Tsygankova, <b>Francesca Marini</b>, Zihan Wang, Jane Lee, Xiaodong Yu, Xingyu Fu, Weijia Shi, Zian Zhao, Wenpeng Yin, Karthikeyan K, Jamaal Hay, Michael Shur, Jennifer Sheffield, Dan Roth
 <br><i>LoReHLT Evaluations - 2019</i></p>
 
 
