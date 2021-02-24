@@ -107,10 +107,12 @@ Expand dropdowns below ↓
 <h4>Awards & Honors:</h4><br>
 <ul style="list-style-type:none;">
     <li>Valedictorian, 2017</li>
+    <li>National AP Scholar, 2017</li>
     <li>AP Scholar with Distinction, 2017</li>
     <li>Class Board, Secretary (Elected), 2015 - 2017</li>
     <li>National Honor Society, Treasurer (Elected), 2015 - 2017</li>
     <li>Math Team, Co-Captain (Appointed), 2015 - 2017</li>
+    <li>AP Scholar with Honor, 2016</li>
     <li>National Merit Commended Scholar, 2016</li>
     <li>Harvard Book Award, 2016</li>
     <li>United States Figure Skating Gold Medalist, Moves in the Field, 2016</li>
